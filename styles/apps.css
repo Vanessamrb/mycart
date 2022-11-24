@@ -11,7 +11,8 @@ body{
 article{
     display: inline-block;
     background: cyan;
-    background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(121,9,109,1) 47%, rgba(0,212,255,1) 100%);
+    background: rgb(2,0,36);
+    background: linear-gradient(315deg, rgba(2,0,36,1) 0%, rgba(58,4,70,1) 0%, rgba(0,212,255,1) 54%, rgba(121,9,109,1) 100%);
     padding: 30px 30px 36px 30px;
     border-radius: 30px;
 
